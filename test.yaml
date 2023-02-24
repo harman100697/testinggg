@@ -1,0 +1,5 @@
+pool:
+  name: Azure Pipelines
+steps:
+- powershell: 
+  displayName: 'PowerShell Script'
